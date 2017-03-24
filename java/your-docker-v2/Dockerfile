@@ -1,6 +1,6 @@
 # Dockerfile
 # download java:8 prebuild
-FROM   pdoviet/oracle-java:8
+FROM   pdoviet/vcc-java8:17.03
 # add your mantainer
 MAINTAINER  Author Name <author@email.com>
 RUN mkdir apps
